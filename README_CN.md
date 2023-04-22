@@ -102,8 +102,4 @@ bash <(curl -s https://raw.githubusercontent.com/langbro/ChatGPT-Web/main/script
 
 > 见英文版。
 
-### 贡献者
-
-[见项目贡献者列表](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
-
 ## 开源协议
