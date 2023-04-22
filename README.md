@@ -17,7 +17,6 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 - Privacy first, all data stored locally in the browser
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
-- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - Automatically compresses chat history to support long conversations while also saving your tokens
 - One-click export all chat history with full Markdown support
 - I18n supported
@@ -29,7 +28,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 - 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
 - 极快的首屏加载速度（~100kb），支持流式响应
 - 隐私安全，所有数据保存在用户浏览器本地
-- 海量的内置 prompt 列表，来自[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)和[英文](https://github.com/f/awesome-chatgpt-prompts)
+- 海量的内置 prompt 列表
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 - 一键导出聊天记录，完整的 Markdown 支持
 - 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
@@ -49,7 +48,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 > [简体中文 > 如何开始使用](./README_CN.md#开始使用)
 
-1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
+1. Get [OpenAI API Key]
 2. Click
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangbro%2FChatGPT-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-web&repository-name=ChatGPT-Web), remember that `CODE` is your page password;
 3. Enjoy :)
