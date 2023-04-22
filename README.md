@@ -97,57 +97,6 @@ Override openai api request base url.
 
 Specify OpenAI organization ID.
 
-### Local Development
-
-```shell
-# 1. install nodejs and yarn first
-# 2. config local env vars in `.env.local`
-# 3. run
-yarn install
-yarn dev
-```
-
-## Deployment
-
-> [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
-
-### Docker (Recommended)
-
-```shell
-docker pull yidadaa/chatgpt-next-web
-
-docker run -d -p 3000:3000 \
-   -e OPENAI_API_KEY="sk-xxxx" \
-   -e CODE="your-password" \
-   yidadaa/chatgpt-next-web
-```
-
-You can start service behind a proxy:
-
-```shell
-docker run -d -p 3000:3000 \
-   -e OPENAI_API_KEY="sk-xxxx" \
-   -e CODE="your-password" \
-   -e PROXY_URL="http://localhost:7890" \
-   yidadaa/chatgpt-next-web
-```
-
-### Shell
-
-```shell
-bash <(curl -s https://raw.githubusercontent.com/langbro/ChatGPT-Web/main/scripts/setup.sh)
-```
-
-## Screenshots
-
-![Settings](./docs/images/settings.png)
-
-![More](./docs/images/more.png)
-
-## Donation
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
-
 ## Special Thanks
 
 ### Sponsor
