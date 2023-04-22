@@ -48,7 +48,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 > [简体中文 > 如何开始使用](./README_CN.md#开始使用)
 
-1. Get [OpenAI API Key]
+1. Get [OpenAI API Key]ChatGPT Plus帐号代开、各种API号-独享 QQ：3111026704
 2. Click
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangbro%2FChatGPT-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-web&repository-name=ChatGPT-Web), remember that `CODE` is your page password;
 3. Enjoy :)
