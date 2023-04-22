@@ -9,7 +9,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 一键免费部署你的私人 ChatGPT 网页应用。
 
-[Demo](https://chat-gpt-next-web.vercel.app/) / [Issues](https://github.com/langbro/ChatGPT-Web/issues) /QQ 2085821463/email：langren669@gmail.com
+[Demo](https://chat-gpt-next-web.vercel.app/) / [Issues](https://github.com/langbro/ChatGPT-Web/issues) /QQ 3111026704/email：langren669@gmail.com
 </div>
 
 ## Features
