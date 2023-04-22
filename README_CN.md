@@ -9,8 +9,6 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangbro%2FChatGPT-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-web&repository-name=ChatGPT-Web)
 
-(https://gitpod.io/#https://github.com/langbro/ChatGPT-Web)
-
 </div>
 
 ## 主要功能
