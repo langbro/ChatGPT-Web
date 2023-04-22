@@ -5,7 +5,7 @@
 
 一键免费部署你的私人 ChatGPT 网页应用。
 
-[演示 Demo](https://chat-gpt-next-web.vercel.app/) / [反馈 Issues](https://github.com/langbro/ChatGPT-Web/issues) 
+ [反馈 Issues](https://github.com/langbro/ChatGPT-Web/issues) 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangbro%2FChatGPT-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-web&repository-name=ChatGPT-Web)
 
