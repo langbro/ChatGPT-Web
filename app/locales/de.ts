@@ -91,7 +91,7 @@ const de: LocaleType = {
       IsLatest: "Neueste Version",
       CheckUpdate: "Update prüfen",
       IsChecking: "Update wird geprüft...",
-      FoundUpdate: (x: string) => ` ${x}`,
+      FoundUpdate: (x: string) => ``,
       GoToUpdate: "",
     },
     SendKey: "Senden-Taste",
