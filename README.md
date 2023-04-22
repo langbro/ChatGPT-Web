@@ -167,7 +167,3 @@ bash <(curl -s https://raw.githubusercontent.com/langbro/ChatGPT-Web/main/script
 [@yankunsong](https://github.com/yankunsong)
 [@ypwhs](https://github.com/ypwhs)
 [@fxxxchao](https://github.com/fxxxchao)
-
-### Contributor
-
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
